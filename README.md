@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @drishtikt
 - 👀 I’m interested in books,badminton and chemistry
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: her
-- ⚡ Fun fact: ...
+- ⚡ I'm a 10th standard student of Carmel school 
 
 <!---
 drishtikt/drishtikt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
